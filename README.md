@@ -24,4 +24,4 @@
 
   <img align="right" alt="anime-pic" height="150" style="border-radius:50px;"      src="https://media.discordapp.net/attachments/593587569623826434/973383702375727184/Webp.net-gifmaker.gif?width=577&height=577">
   
- ![Snake animation](https://github.com/GuilhermeSchwengber20/GuilhermeSchwengber20/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuilhermeSchwengber20/GuilhermeSchwengber20/blob/output/github-contribution-grid-snake.svg)

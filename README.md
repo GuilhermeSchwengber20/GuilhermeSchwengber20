@@ -1,7 +1,7 @@
 ### Olá eu sou Guilherme Schwengber 👋
 
 - 🔭 Buscando novas oportunidades
-- 🌱 Estudando JavaScript, React.js, node.js
+- 🌱 Aprimorando Vue.js, Node.js, Banco de dados.
 - 📫 contato.guilhermeschwengber@gmail.com
 
 <div align="center">

@@ -24,8 +24,8 @@
 <div align="left"> 
   <h2 align="left">Contato</h2>
   <img align="center" alt="intagram" height="40" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img align="center" alt="intagram" height="40" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img align="center" alt="intagram" height="40" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="center" alt="intagram" height="40" width="120" src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" alt="intagram" height="40" width="120" src="https://img.shields.io/badge/Gmail-F0000?style=for-the-badge&logo=gmail&logoColor=white" />
   
   
   	

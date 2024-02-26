@@ -1,5 +1,5 @@
-# 💫 About Me:
-Front-end web. developder<br>BDS-INFORMATICA<br>Atualmente estou aprendendo: node.js e express<br>
+# 💫 Sobre mim:
+Front-end web. developder<br>BDS-INFORMATICA<br>Atualmente estou aprendendo sobre desenvolvimento de aplicativos com Java e Kotlin<br>
 
 
 ## 🌐 Socials:
